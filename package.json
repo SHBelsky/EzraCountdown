@@ -1,0 +1,23 @@
+{
+  "name": "ezracountdown",
+  "version": "1.0.0",
+  "description": "Countdown to Ezra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHBelsky/EzraCountdown.git"
+  },
+  "author": "Shea Belsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SHBelsky/EzraCountdown/issues"
+  },
+  "homepage": "https://github.com/SHBelsky/EzraCountdown#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0"
+  }
+}
