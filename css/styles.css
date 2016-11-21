@@ -21,7 +21,7 @@ p {
 #countdown {
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
-    height: 50%;
+    height: 80%;
     max-width: 50%;
     width: 50%;
 }
@@ -60,7 +60,7 @@ p {
     font-size: 16px;
 }
 .icon {
-    display: block;
+    display: inline;
     height: 100px;
     margin: 0 auto;
     width: 100px;
